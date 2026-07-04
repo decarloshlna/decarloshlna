@@ -10,9 +10,15 @@
 ## My Contact
 
 <div id="my-contact">
-
-![https://linkedin.com/in/decarloshlna](https://skillicons.dev/icons?i=linkedin) ![mailto:decarloshlna21@gmail.com](https://skillicons.dev/icons?i=gmail) ![https://instagram.com/decarloshlna](https://skillicons.dev/icons?i=instagram)
-
+  <a href="https://linkedin.com/in/decarloshlna/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo" />
+  </a>
+  <a href="mailto:decarloshlna21@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail logo"  />
+  </a>
+  <a href="https://instagram.com/decarloshlna/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"  />
+  </a>
 </div>
 
 ## Tech Stack & Tools
