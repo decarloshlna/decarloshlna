@@ -11,7 +11,7 @@
 
 <div id="my-contact">
 
-[![https://linkedin.com/in/decarloshlna](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [![mailto:decarloshlna21@gmail.com](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) [![https://instagram.com/decarloshlna](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+![https://linkedin.com/in/decarloshlna](https://skillicons.dev/icons?i=linkedin) ![mailto:decarloshlna21@gmail.com](https://skillicons.dev/icons?i=gmail) ![https://instagram.com/decarloshlna](https://skillicons.dev/icons?i=instagram)
 
 </div>
 
