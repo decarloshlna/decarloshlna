@@ -73,10 +73,9 @@
 
 <div id="tools">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="50" alt="notion logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="45" alt="kaggle logo"  />
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,androidstudio,idea,pycharm" />
+  <img src="https://skillicons.dev/icons?i=postman,docker,git,github,vscode,androidstudio,idea,pycharm" />
 </div>
 
 </div>
